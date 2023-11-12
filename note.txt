@@ -1,0 +1,18 @@
+- To run the server:
+    uvicorn server:app --reload
+- To visit all the api, go To  
+    http://localhost:8000/docs
+
+https://codelabs.developers.google.com/codelabs/cloud-translation-python3#1
+
+cd src then run
+
+setup google-translate-api
+
+gcloud auth application-default login   
+    you need to install gcloud ...
+        ( the more information will show when you run the command above in linux)
+
+- provide email addresses to be added to the google cloud project
+- install google-cloud-cli locally
+- run the command "gcloud config set project junction2023-404704" in the project terminal

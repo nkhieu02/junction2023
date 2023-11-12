@@ -1,0 +1,19 @@
+langchain
+numpy
+torch
+spacy
+pdfplumber
+transformers
+openai
+huggingface_hub
+python-dotenv
+asyncio
+rank_bm25
+scikit-learn
+arxiv
+uvicorn
+fastapi
+google-cloud-translate
+pymupdf
+# python -m nltk.downloader popular
+# python -m spacy download en_core_web_sm

@@ -1,0 +1,147 @@
+[
+    {
+    "url": "https://yle.fi",
+    "metadata": {
+        "lan" : "fi",
+        "serve": "fi",
+        "field":"news"
+    }
+    },
+    {
+        "url": "https://www.hs.fi",
+        "metadata": {
+            "lan" : "fi",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.mtvuutiset.fi",
+        "metadata": {
+            "lan" : "fi",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.is.fi",
+        "metadata": {
+            "lan" : "fi",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.iltalehti.fi",
+        "metadata": {
+            "lan" : "fi",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.kauppalehti.fi",
+        "metadata": {
+            "lan" : "fi",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.talouselama.fi",
+        "metadata": {
+            "lan" : "fi",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.helsinkitimes.fi",
+        "metadata": {
+            "description": "",
+            "lan" : "en",
+            "serve": "fi",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://hbr.org",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.wsj.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.forbes.com/?sh=60ad61e22254",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"news"
+        }
+    },
+    {
+        "url": "https://www.bloomberg.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"news"
+        }
+    }, 
+    {
+        "url": "https://www.ft.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"news"
+        }
+    }, 
+    {
+        "url": "https://www.economist.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"news"
+        }
+    }, 
+    {
+        "url": "https://www.proquest.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"paper"
+        }
+    },
+    {
+        "url": "https://www.sciencedirect.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"paper"
+        }
+    },
+    {
+        "url": "https://www.ebsco.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"paper"
+        }
+    },
+    {
+        "url": "https://scholar.google.com",
+        "metadata": {
+            "lan" : "en",
+            "serve": "en",
+            "field":"paper"
+        }
+    }
+]

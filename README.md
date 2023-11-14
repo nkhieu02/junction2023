@@ -6,7 +6,7 @@ Overview
 
 Introduction
 
-The chatbot is designed to dynamically retrieve data for thoughtful responses, making use of a novel technique called the "Tree of Thought." This approach not only enhances the bot's ability to reason but also provides a structured framework for generating intelligent responses.
+The chatbot is designed to dynamically retrieve data from online credible source for thoughtful responses, making use of a novel technique called the "Tree of Thought." This approach not only enhances the bot's ability to reason but also provides a structured framework for generating intelligent responses.
 Key Features
 
     Tree of Thought: The core of the project, this unique technique organizes the chatbot's reasoning process into a tree structure, facilitating efficient planning, trial and error, and dynamic data retrieval.
